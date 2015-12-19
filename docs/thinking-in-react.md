@@ -5,8 +5,7 @@ prev: tutorial.html
 next: why-react.html
 redirect_from: 'blog/2013/11/05/thinking-in-react.html'
 ---
-
-by Pete Hunt
+<script src="https://gist.github.com/catmando/ce6dbcaf56158a01335a.js"></script>by Pete Hunt
 
 React is, in my opinion, the premier way to build big, fast Web apps with JavaScript. It has scaled very well for us at Facebook and Instagram.
 
